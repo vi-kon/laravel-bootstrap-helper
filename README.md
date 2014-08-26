@@ -1,4 +1,6 @@
-laravel-bootstrap-helper
+Bootstrap 3.2 helper
 ========================
 
-Laravel 4 helper objects for Bootstrap 3.2
+This package is for Laravel 4 and Bootstrap 3.2 integration.
+
+TODO

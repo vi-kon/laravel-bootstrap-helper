@@ -1,0 +1,23 @@
+{
+    "name": "vi-kon/laravel-bootstrap-helper",
+    "description": "Bootstrap helper for Laravel 4",
+    "authors":           [
+        {
+            "name":  "Kovács Vince",
+            "email": "vincekovacs@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "suggest": {
+        "vi-kon/laravel-smarty-view": "Smarty template engine for Laravel 4"
+    },
+    "autoload": {
+        "psr-0": {
+            "ViKon\\BootstrapHelper": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
