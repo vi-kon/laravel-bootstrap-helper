@@ -1,20 +1,25 @@
 {
-    "name": "vi-kon/laravel-bootstrap-helper",
-    "description": "Bootstrap helper for Laravel 4",
+    "name":              "vi-kon/laravel-bootstrap-helper",
+    "description":       "Bootstrap helper for Laravel 4",
+    "keywords":          [
+        "laravel",
+        "bootstrap",
+        "smarty"
+    ],
     "authors":           [
         {
             "name":  "Kovács Vince",
             "email": "vincekovacs@hotmail.com"
         }
     ],
-    "require": {
-        "php": ">=5.4.0",
+    "require":           {
+        "php":                ">=5.4.0",
         "illuminate/support": "4.2.*"
     },
-    "suggest": {
+    "suggest":           {
         "vi-kon/laravel-smarty-view": "Smarty template engine for Laravel 4"
     },
-    "autoload": {
+    "autoload":          {
         "psr-0": {
             "ViKon\\BootstrapHelper": "src/"
         }
